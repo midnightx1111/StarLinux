@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.AssemblyInfo.cs
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\bin\Debug\net8.0\StarLinux.exe
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\bin\Debug\net8.0\StarLinux.deps.json
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\bin\Debug\net8.0\StarLinux.runtimeconfig.json
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\bin\Debug\net8.0\StarLinux.dll
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\bin\Debug\net8.0\StarLinux.pdb
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.dll
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\refint\StarLinux.dll
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.pdb
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\StarLinux.genruntimeconfig.cache
+C:\Users\User\Desktop\Star\StarLinux\StarLinux\obj\Debug\net8.0\ref\StarLinux.dll
