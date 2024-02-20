@@ -1,0 +1,2 @@
+# StarLinux
+pseudo Linux distro
