@@ -1,2 +1,1 @@
-# StarLinux
-pseudo Linux distro
+this is bad idea ig, cuz it wont work good
